@@ -13,7 +13,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
 </a>
 <a href="https://minhkhoa.website/" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Globe_icon.svg" alt="website" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/internetexplorer.svg" alt="website" height="30" width="40" />
 </a>
 </p>
 
@@ -44,7 +44,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
-Hi there! I'm <b>Le Khoa</b>, a Junior Java Developer from Vietnam 🇻🇳.<br/>
+Hi there! I'm <b>Le Khoa</b>, a Fresher Java Developer from Vietnam 🇻🇳.<br/>
 I’m passionate about coding, exploring new technologies, and building high-quality web applications.<br/>
 </p>
 
