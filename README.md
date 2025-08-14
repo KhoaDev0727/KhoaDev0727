@@ -1,35 +1,23 @@
 <p align="center">
   <a href="https://github.com/KhoaDev0727">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Le+Khoa%F0%9F%91%8B;Junior+Java+Developer;Always+Learning+New+Things;Love+Coding+and+Improving+Skills" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Le+Khoa%F0%9F%91%8B;Junior+Java+Developer;Always+Learning+New+Things;Passionate+about+Coding" alt="Typing SVG" />
   </a>
 </p>
 
-<div align="center">
-  
-## :mailbox: Connect with Me
-</div>
-
+<h2 align="center">📬 Connect with Me</h2>
 <p align="center">
-<a href="https://linkedin.com/in/your-handle" target="blank">
+<a href="https://www.linkedin.com/in/khoadev27" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
-<a href="mailto:your.email@example.com" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="email" height="30" width="40" />
-</a>
-<a href="https://fb.com/your-facebook" target="blank">
+<a href="https://www.facebook.com/Dev.Le27" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
+</a>
+<a href="https://minhkhoa.website/" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Globe_icon.svg" alt="website" height="30" width="40" />
 </a>
 </p>
 
----
-
-<div align="center">
-
-## :computer: Technologies and Tools I use
-</div>
-
-<br/>
-
+<h2 align="center">💻 Technologies & Tools</h2>
 <p align="center">
 <!-- Row 1 -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
@@ -39,9 +27,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png" height="40" alt="Rust" />
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png" height="80" alt="Rust" />
 </p>
-
 <p align="center">
 <!-- Row 2 -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
@@ -55,33 +42,32 @@
 <img src="https://raw.githubusercontent.com/ethereum/solidity/master/docs/logo.svg" height="40" alt="Solidity" />
 </p>
 
----
+<h2 align="center">🚀 About Me</h2>
+<p align="center">
+Hi there! I'm <b>Le Khoa</b>, a Junior Java Developer from Vietnam 🇻🇳.<br/>
+I’m passionate about coding, exploring new technologies, and building high-quality web applications.<br/>
+</p>
 
-## 🚀 About me
-- 💼 Building **SaaS Multi-Organization Work Management (Taskio)** with Spring Boot 3, Java 17, PostgreSQL, Redis, Docker Compose, GitHub Actions.
-- 🔒 Auth & RBAC with Spring Security + JWT (access/refresh).
-- 📈 Observability: Micrometer • Flyway migrations • CI/CD end-to-end.
-- 🎯 Goal: write clean code, strong testing, and production-ready services.
+- 🎓 Proficient in **Java 17, Spring Boot, React + TypeScript**  
+- 🔒 Experienced in **authentication & authorization** (JWT, RBAC)  
+- 🐳 Skilled in deployment with **Docker, PostgreSQL, Redis**  
+- 🚀 Familiar with **CI/CD** (GitHub Actions) & observability tools  
+- 📚 Continuously learning **Rust** and **Solidity**  
 
----
+<h2 align="center">🏆 Achievements</h2>
 
-## 📌 Featured projects
-- 🔹 **Taskio** – SaaS Quản lý công việc đa tổ chức (Spring Boot 3, React TS)
-- 🔹 **starcinema** – Frontend React + TS
-- 🔹 **LorKingdom** – Java (new version)
+- Built multiple full-stack repositories from backend to frontend  
+- Own notable repositories: **Taskio**, **starcinema**, **LorKingdom**  
+- Consistently active and contributing on GitHub  
+- Participated in open-source projects and coding challenges  
 
----
-
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=KhoaDev0727&theme=gotham&show_icons=true" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=KhoaDev0727&show_icons=true&theme=gotham" />
 </p>
-
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhoaDev0727&layout=compact&theme=gotham" />
-  <img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="dev animation" />
 </p>
 
----
-Last Edited on: 15/08/2025
+<p align="center"><i>Last Edited on: 15/08/2025</i></p>
