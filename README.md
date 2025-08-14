@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/KhoaDev0727">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Le+Khoa%F0%9F%91%8B;Junior+Java+Developer;Always+Learning+New+Things;Passionate+about+Coding" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Le+Khoa%F0%9F%91%8B;Fresher+Java+Developer;Always+Learning+New+Things;Passionate+about+Coding" alt="Typing SVG" />
   </a>
 </p>
 
